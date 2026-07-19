@@ -8,9 +8,3 @@ o blocksworld é um jogo play create share que nem o lbp só que 3d, mas vou rec
 ## pls nao falem mal
 sou uma criança e posso cometer erros e estou usando paint para criar as imagen
 
-
-
-
-
-
-###### teste
