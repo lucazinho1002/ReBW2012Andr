@@ -7,3 +7,10 @@ nao temos nada a ver com a fortellgames ou com a linden lab ou com a boldai.
 o blocksworld é um jogo play create share que nem o lbp só que 3d, mas vou recriar uma versão antiga de 2012, se quiser ver uma gameplay no youtube de uma versão oficial vá na playlist chamada blocksworld prototipes do canal do blocksworld official.
 ## pls nao falem mal
 sou uma criança e posso cometer erros e estou usando paint para criar as imagen
+
+
+
+
+
+
+###### teste
