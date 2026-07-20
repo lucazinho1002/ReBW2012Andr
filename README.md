@@ -1,5 +1,6 @@
 # ReBW2012Andr
 vou tentar recriar o blocksworld de 2012 para android, se vai dar certo nao sei, se vou esquecer o projeto nao sei, mas vou tentar.
+vou postar o primeiro código fonte quando eu terminar a fase de teste minimo que estou testando como vai a ui  o som e outroas para as versões alpha.
 ## aaaaaa
 rezando para a fortell games nao apagar o jogo da net.
 nao temos nada a ver com a fortellgames ou com a linden lab ou com a boldai.
